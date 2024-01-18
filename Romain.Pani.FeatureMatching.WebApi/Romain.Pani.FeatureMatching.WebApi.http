@@ -1,0 +1,6 @@
+@Romain.Pani.FeatureMatching.WebApi_HostAddress = http://localhost:5069
+
+GET {{Romain.Pani.FeatureMatching.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

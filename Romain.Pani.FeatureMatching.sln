@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romain.Pani.FeatureMatching", "Romain.Pani.FeatureMatching\Romain.Pani.FeatureMatching.csproj", "{A71646B6-8CB0-45B6-BCB1-712FB438C008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romain.Pani.FeatureMatching.Console", "Romain.Pani.FeatureMatching.Console\Romain.Pani.FeatureMatching.Console.csproj", "{9E8A8C99-4489-4C3F-9102-74A26F45ED2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romain.Pani.FeatureMatching.Tests", "Romain.Pani.FeatureMatching.Tests\Romain.Pani.FeatureMatching.Tests.csproj", "{40B32033-E54C-4381-B515-790702E0C1AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{87FC7917-0071-4312-AE7C-0DFB07B7C773}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{A1CC404C-3188-4C45-BC12-0EC26FBA638E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Romain.Pani.FeatureMatching.WebApi", "Romain.Pani.FeatureMatching.WebApi\Romain.Pani.FeatureMatching.WebApi.csproj", "{7EEC4F4C-0567-454C-8968-20E24D966775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37D89613-59D8-4F40-A42A-8D914485685F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D89613-59D8-4F40-A42A-8D914485685F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D89613-59D8-4F40-A42A-8D914485685F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D89613-59D8-4F40-A42A-8D914485685F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A71646B6-8CB0-45B6-BCB1-712FB438C008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A71646B6-8CB0-45B6-BCB1-712FB438C008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A71646B6-8CB0-45B6-BCB1-712FB438C008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A71646B6-8CB0-45B6-BCB1-712FB438C008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8A8C99-4489-4C3F-9102-74A26F45ED2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8A8C99-4489-4C3F-9102-74A26F45ED2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8A8C99-4489-4C3F-9102-74A26F45ED2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8A8C99-4489-4C3F-9102-74A26F45ED2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B32033-E54C-4381-B515-790702E0C1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B32033-E54C-4381-B515-790702E0C1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B32033-E54C-4381-B515-790702E0C1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B32033-E54C-4381-B515-790702E0C1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEC4F4C-0567-454C-8968-20E24D966775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEC4F4C-0567-454C-8968-20E24D966775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEC4F4C-0567-454C-8968-20E24D966775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEC4F4C-0567-454C-8968-20E24D966775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A71646B6-8CB0-45B6-BCB1-712FB438C008} = {87FC7917-0071-4312-AE7C-0DFB07B7C773}
+		{9E8A8C99-4489-4C3F-9102-74A26F45ED2A} = {87FC7917-0071-4312-AE7C-0DFB07B7C773}
+		{40B32033-E54C-4381-B515-790702E0C1AE} = {A1CC404C-3188-4C45-BC12-0EC26FBA638E}
+		{7EEC4F4C-0567-454C-8968-20E24D966775} = {87FC7917-0071-4312-AE7C-0DFB07B7C773}
+	EndGlobalSection
+EndGlobal
